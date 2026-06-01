@@ -11,3 +11,4 @@ pdfplumber
 pymupdf
 icalendar
 google-genai
+dateparser
