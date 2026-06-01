@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pydantic
+python-dotenv
+openai
+sqlalchemy
+python-multipart
+pillow
+pytesseract
+pdfplumber
+pymupdf
+icalendar
+google-genai
