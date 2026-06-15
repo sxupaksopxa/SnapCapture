@@ -927,7 +927,7 @@ def export_tasks_ics(
         tasks = query.all()
 
         cal = Calendar()
-        cal.add("prodid", "-//SnapCapture//BKlein Digital Lab//EN")
+        cal.add("prodid", "-//SnapCapture//BKlein Digital Labs//EN")
         cal.add("version", "2.0")
         cal.add("calscale", "GREGORIAN")
         cal.add("method", "PUBLISH")
@@ -985,7 +985,7 @@ def export_events_ics(
         events = query.all()
 
         cal = Calendar()
-        cal.add("prodid", "-//SnapCapture//BKlein Digital Lab//EN")
+        cal.add("prodid", "-//SnapCapture//BKlein Digital Labs//EN")
         cal.add("version", "2.0")
         cal.add("calscale", "GREGORIAN")
         cal.add("method", "PUBLISH")
