@@ -33,7 +33,7 @@ function App() {
     <AppProvider>
       <Router />
       <footer style={{ textAlign: "center", padding: "16px", fontSize: "12px", color: "#9ca3af" }}>
-        © 2026 BKlein Digital Lab. All rights reserved.
+        © 2026 BKlein Digital Labs. All rights reserved.
       </footer>
     </AppProvider>
   );

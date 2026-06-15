@@ -298,10 +298,10 @@ Current focus areas:
 
 SnapCapture MVP v0.9
 
-BKlein Digital Lab
+BKlein Digital Labs
 
 Small practical tool for real everyday usage.
 
 ---
 
-© 2026 BKlein Digital Lab. All rights reserved.# SnapCapture
+© 2026 BKlein Digital Labs. All rights reserved.# SnapCapture

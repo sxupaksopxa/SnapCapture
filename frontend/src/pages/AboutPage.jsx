@@ -43,6 +43,10 @@ export default function AboutPage() {
       <h3>Version</h3>
       <p>SnapCapture MVP v0.9</p>
       <p>Small practical tool for real everyday usage</p>
+
+      <h3>Support & Feedback</h3>
+      <p>Questions, bug reports, feature requests and general feedback are welcome.</p>
+      <p>support@snapcapture.net</p>
     </div>
   );
 }
