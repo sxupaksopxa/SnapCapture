@@ -46,7 +46,7 @@ export default function AboutPage() {
 
       <h3>Support & Feedback</h3>
       <p>Questions, bug reports, feature requests and general feedback are welcome.</p>
-      <p>support@snapcapture.net</p>
+      <p>snapcapture@bkleindigital.com</p>
     </div>
   );
 }
